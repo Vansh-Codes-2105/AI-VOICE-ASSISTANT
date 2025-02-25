@@ -44,7 +44,7 @@ JARVIS/
 
 Clone the Repository
 
-git clone https://github.com/yourusername/JARVIS.git
+git clone https://github.com/Vansh-Codes-2105/Ai-VOICE-ASSISTANT.git
 cd JARVIS
 
 Create & Activate Virtual Environment
